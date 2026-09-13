@@ -25,6 +25,8 @@
 
 ### About Me
 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=2800&pause=1000&color=2C5364&center=false&vCenter=true&width=600&lines=Backend-focused+Full-Stack+Developer;Building+secure%2C+scalable+APIs;Currently+exploring+FinTech+systems" alt="About typing animation" />
+
 I'm a Full-Stack Developer specializing in **Java & Spring Boot** for backend systems, with working experience in **Python** for automation/data tasks and **Firebase** for auth and real-time data. Currently focused on building **FinTech applications** — clean APIs, secure auth, and scalable architecture.
 
 - 🎓 [Your degree / current year, if relevant]
