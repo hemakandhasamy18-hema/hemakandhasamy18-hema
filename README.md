@@ -1,19 +1,26 @@
 <!-- ================================================================
-  GITHUB PROFILE README TEMPLATE
-  Replace: YOUR_USERNAME, YOUR_NAME, links, project names/descriptions
+  GITHUB PROFILE README TEMPLATE — FULL ANIMATED VERSION
+  Replace: YOUR_USERNAME, YOUR_NAME, YOUR_EMAIL, YOUR_LINKEDIN,
+  YOUR_PORTFOLIO_LINK, YOUR_TWITTER (optional) and project details.
   This file goes in a repo named EXACTLY like your username
   (e.g. github.com/yourname/yourname) -> README.md
 ================================================================ -->
 
 <div align="center">
 
-<!-- Layered 3D-depth wave banner (multiple wave sections stacked = parallax depth illusion) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00c6ff&height=220&section=header&text=Hi%20There,%20I'm%20YOUR_NAME%20👋&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Java%20|%20Spring%20Boot%20|%20Python%20|%20Full-Stack%20Developer&descAlignY=55&descSize=18&reversal=false" width="100%"/>
+<!-- Animated rainbow top border -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<!-- Typing animation bio -->
+<!-- Layered 3D-depth wave banner with twinkle animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00c6ff&height=230&section=header&text=Hi%20There,%20I'm%20YOUR_NAME%20👋&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=Java%20|%20Spring%20Boot%20|%20Python%20|%20Full-Stack%20Developer&descAlignY=53&descSize=18" width="100%"/>
+
+<!-- Multi-line typing animation -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+Backend+Developer;Python+%7C+Automation+%26+Data;FinTech+%2B+Firebase+Enthusiast;Building+clean%2C+scalable+full-stack+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+Backend+Developer;Python+%7C+Automation+%26+Data;FinTech+%2B+Firebase+Enthusiast;Building+clean%2C+scalable+full-stack+apps;Always+learning+something+new+🚀" alt="Typing SVG" />
 </a>
+
+<!-- Animated visitor badge -->
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00c6ff&style=for-the-badge" />
 
 <!-- Social badges -->
 <p>
@@ -26,7 +33,12 @@
   <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 </div>
 
@@ -37,6 +49,8 @@
 - 🔭 Currently building **FinTech + Full-Stack** applications with **Java, Spring Boot & Firebase**
 - 🌱 Sharpening skills in **Python** for automation & backend services
 - 💡 Interested in scalable backend architecture and clean API design
+- 🎯 2026 goal: contribute to open-source + ship a production FinTech app
+- ⚡ Fun fact: I debug faster with coffee ☕
 - 📫 Reach me: **YOUR_EMAIL**
 
 ---
@@ -56,6 +70,8 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_API-informational?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
@@ -118,6 +134,18 @@ Short one-line description.
 
 ---
 
+### 📊 Live Coding Activity Graph (animated)
+
+<!--
+Real-time animated area-chart of your commit activity.
+https://github.com/ashutosh00710/github-readme-activity-graph
+-->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" width="90%"/>
+</div>
+
+---
+
 ### 🧊 3D Isometric Contribution Graph
 
 <!--
@@ -154,9 +182,57 @@ Below is the standard output path once the Action is configured.
 
 ---
 
+### ⏱️ Weekly Coding Time (animated, auto-updating)
+
+<!--
+Setup: https://github.com/athul/waka-readme (WakaTime + GitHub Action)
+Shows a live-updating breakdown of languages/time spent coding.
+-->
+```text
+Java          14 hrs 32 mins  ███████████████░░░░░░░░  62.4 %
+Python        5 hrs 10 mins   █████░░░░░░░░░░░░░░░░░░  22.1 %
+SQL           2 hrs 05 mins   ██░░░░░░░░░░░░░░░░░░░░░░  8.9 %
+Markdown      1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░  6.6 %
+```
+
+---
+
+### 💬 Random Dev Quote (auto-refreshing)
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+### 🌱 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System_Design-4B32C3?style=for-the-badge&logo=diagrams-dot-net&logoColor=white"/>
+</p>
+
+---
+
+### 🤝 Support / Connect
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0F2027&height=100&section=footer"/>
+<a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
+
+*Open to full-stack / backend roles and freelance FinTech projects — let's connect!*
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0F2027&height=120&section=footer&animation=twinkling"/>
 
 **Thanks for visiting! ⭐ Star my repos if you find them useful.**
 
